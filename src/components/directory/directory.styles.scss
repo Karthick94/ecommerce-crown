@@ -1,0 +1,8 @@
+.directory {
+    padding: 2rem 0;
+    display: grid;
+    grid-template-areas:
+        'dir-item1 dir-item1 dir-item2 dir-item2 dir-item3 dir-item3'
+        'dir-item4 dir-item4 dir-item4 dir-item5 dir-item5 dir-item5';
+    grid-gap: 1rem;
+}
